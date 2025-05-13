@@ -1,4 +1,4 @@
-******************Distance Vector Routing Simulation*******************************
+***************************Distance Vector Routing Simulation*******************************
 
 
 This code is a C++ simulation of Distance Vector Routing algorithm, developed for Computer Networks.
