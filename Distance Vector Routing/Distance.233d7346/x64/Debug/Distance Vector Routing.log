@@ -1,0 +1,3 @@
+﻿  Distance Vector Routing.cpp
+C:\Users\96879\source\repos\Distance Vector Routing\Distance Vector Routing.cpp(13,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Distance Vector Routing.vcxproj -> C:\Users\96879\source\repos\Distance Vector Routing\x64\Debug\Distance Vector Routing.exe
